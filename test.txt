@@ -1,0 +1,6 @@
+#CONFIG CCTV DAN ENDPOINT RASPBERRY PI
+ENDPOINT="http://172.16.12.114:8200/status_auto"
+RTSP_CCTV="rtsp://aintpjmto:aintp123!@172.150.150.3:554/Streaming/Channels/101"
+DELAY_DETECTION="10"
+nocctv="01"
+masking="(160,1894),(169,335),(9,334),(8,4),(170,4)"
